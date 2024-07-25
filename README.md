@@ -15,4 +15,4 @@ main.py 训练
 
 diffusion_model.ipynb 简单的diffusion步骤可视化加噪去噪过程
 
-
+gaussian_noise.py 简单的给图片增加gaussian噪音的代码
